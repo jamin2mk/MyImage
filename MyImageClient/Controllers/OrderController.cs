@@ -8,7 +8,7 @@ namespace MyImageClient.Controllers
 {
     public class OrderController : Controller
     {
-        // GET: Order
+        // Action for showing all orders
         public ActionResult Index()
         {
             return View();
