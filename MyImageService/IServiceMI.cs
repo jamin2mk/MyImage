@@ -13,13 +13,7 @@ namespace MyImageService
     public interface IServiceMI
     {
 
-        [OperationContract]
-        string GetData(int value);
-
-        [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
-
-        // TODO: Add your service operations here
+       
     }
 
 
