@@ -12,6 +12,7 @@ namespace MyImageService
     [ServiceContract]
     public interface IServiceMI
     {
+        
 
         [OperationContract]
         string GetData(int value);
