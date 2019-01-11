@@ -14,6 +14,7 @@ namespace MyImageService
     {
         
 
+
         [OperationContract]
         string GetData(int value);
 
