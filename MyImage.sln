@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageClient", "MyImageCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageService", "MyImageService\MyImageService.csproj", "{B0074CB7-AC2A-4FA5-BAD6-CB8574506B0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageData", "MyImageData\MyImageData.csproj", "{3D728611-EE0D-4C5A-AE03-F9E266C31AD0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{B0074CB7-AC2A-4FA5-BAD6-CB8574506B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0074CB7-AC2A-4FA5-BAD6-CB8574506B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0074CB7-AC2A-4FA5-BAD6-CB8574506B0A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D728611-EE0D-4C5A-AE03-F9E266C31AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D728611-EE0D-4C5A-AE03-F9E266C31AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D728611-EE0D-4C5A-AE03-F9E266C31AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D728611-EE0D-4C5A-AE03-F9E266C31AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
