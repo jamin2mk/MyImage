@@ -8,5 +8,6 @@ namespace MyImageData
 {
     public class Class1
     {
+        string abc;
     }
 }
