@@ -12,14 +12,10 @@ namespace MyImageService
     [ServiceContract]
     public interface IServiceMI
     {
+        //sdlha;ehv;wvua'e
 
-        [OperationContract]
-        string GetData(int value);
 
-        [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
-
-        // TODO: Add your service operations here
+       
     }
 
 
