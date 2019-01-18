@@ -12,7 +12,7 @@ namespace MyImageService
     [ServiceContract]
     public interface IServiceMI
     {
-        
+        //sdlha;ehv;wvua'e
 
 
        
